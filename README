@@ -1,0 +1,24 @@
+Kaṭapayādi
+==========
+Kaṭapayādi is a small console utility that can convert Sanskrit words to numbers
+according to the katapayadi system. More information about the system can be
+found on Wikipedia: https://en.wikipedia.org/wiki/Katapayadi_system
+
+
+Donations
+---------
+If you like this project and it is useful to you, consider sending a donation
+to the following Bitcoin address: 1LXAkkvKodKB237yayzCTYAsb8tYawGfHz
+
+
+Licensing Notice
+----------------
+This software is released under the terms of the GPL license version 2 as
+published by the Free Software Foundation. You can freely redistribute and/or
+modify the software under the terms of the license.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+For more information on details of the license, see the file COPYING.
